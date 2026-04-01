@@ -31,7 +31,7 @@ This is a simple Flutter Authentication UI project with Login and Signup screens
 ![Signup](screenshots/signup.png)
 
 ## 🎥 Demo Video
-https://youtu.be/your_video_link
+https://github.com/LaxmiShaha028/Auth-UI/blob/main/demo.mp4
 
 ## 🔗 GitHub Repository
 https://github.com/LaxmiShaha028/Auth-UI
